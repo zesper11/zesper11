@@ -18,4 +18,6 @@ I'm a front-end web developer from Kathmandu, Nepal.
 </p>
 
 ## 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohanniroula.work@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/zesper.gg)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092291944561)
