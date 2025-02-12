@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan Niroula 👋
 
-I'm a passionate front-end web developer from Kathmandu, Nepal.
+I'm a front-end web developer from Kathmandu, Nepal.
 
 ## About Me
 - 🌱 I’m currently improving my skills in HTML, CSS, and JavaScript.
