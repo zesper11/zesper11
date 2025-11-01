@@ -4,7 +4,7 @@ I'm a front-end web developer from Kathmandu, Nepal.
 
 ## About Me
 - 🌱 I’m currently improving my skills in HTML, CSS, and JavaScript.
-- 🔭 Check out my portfolio: [portfolio-nine-eta-66.vercel.app](https://portfolio-nine-eta-66.vercel.app/)
+- 🔭 Check out my portfolio: [portfolio-nine-eta-66.vercel.app](https://rohan-niroula-azure.vercel.app/)
 - 📬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100092291944561)
 
 ## 🛠️ Technologies & Tools
