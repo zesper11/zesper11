@@ -1,23 +1,44 @@
-# Hi there, I'm Rohan Niroula 👋
+# Hey, I'm Rohan 👋
 
-I'm a front-end web developer from Kathmandu, Nepal.
+I'm Website Developer from Nepal.
 
-## About Me
-- 🌱 I’m currently improving my skills in HTML, CSS, and JavaScript.
-- 🔭 Check out my portfolio: [portfolio-nine-eta-66.vercel.app](https://rohan-niroula-azure.vercel.app/)
-- 📬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100092291944561)
+I've mainly worked with **HTML, CSS, JavaScript, and React**, and I'm currently learning more about **Node.js, Express, MongoDB, and backend development**.
 
-## 🛠️ Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## What I'm working on
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zesper11&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
-</p>
+- 🌐 Building and improving full-stack web projects
+- ⚛️ Getting better with React
+- 🟢 Learning Node.js, Express & MongoDB
 
-## 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohanniroula.work@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/zesper.gg)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092291944561)
+
+
+## Tech I use
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+
+**Backend / Database**
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux
+- Windows
+
+## Currently learning
+
+```text
+Backend development
+   ↓
+Node.js → Express → MongoDB → APIs
+   ↓
+Full-stack projects
+   ↓
+Python + programming fundamentals
