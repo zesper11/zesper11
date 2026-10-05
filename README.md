@@ -26,12 +26,6 @@ I've mainly worked with **HTML, CSS, JavaScript, and React**, and I'm currently 
 - MongoDB
 - Mongoose
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Linux
-- Windows
-
 ## Currently learning
 
 ```text
@@ -40,5 +34,3 @@ Backend development
 Node.js → Express → MongoDB → APIs
    ↓
 Full-stack projects
-   ↓
-Python + programming fundamentals
