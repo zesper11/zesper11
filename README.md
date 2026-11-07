@@ -1,15 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:0F766E,100:38BDF8&height=220&section=header&text=Hey,%20I'm%20Rohan%20%F0%9F%91%8B&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Nepal&descAlignY=60&descSize=18" alt="Hey, I'm Rohan — Web Developer from Nepal" />
-</div>
-
-<div align="center">
-
-### About Me
-
-I'm a web developer from **Jhapa, Nepal**. I'm **16 years old** and have been building websites for over **three years**.
-
-I have a strong foundation in **frontend development** and am currently learning **backend development**.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:0F766E,100:38BDF8&height=220&section=header&text=Hey,%20I'm%20Rohan%20%F0%9F%91%8B&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Jhapa,%20Nepal&descAlignY=60&descSize=18" alt="Hey, I'm Rohan — Web Developer from Jhapa, Nepal" />
 </div>
 
 ---
@@ -42,5 +32,9 @@ I have a strong foundation in **frontend development** and am currently learning
 
 <div align="center">
   <br />
-  🌐 **Portfolio:** Coming soon — check back to learn more about my work.
+  <a href="https://rohan-niroula-dev.vercel.app/">🌐 Visit my portfolio</a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0F766E,100:102A43&height=100&section=footer" alt="" />
 </div>
