@@ -33,9 +33,8 @@ Node.js → Express → MongoDB → APIs
    ↓
 Full-stack projects
 ```
-
-## My Git Koi 🐟
+## Koi
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My Git Koi" />
+  <img src="koi/koi.gif" width="280" alt="Animated koi fish" />
 </p>
