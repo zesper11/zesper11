@@ -4,9 +4,11 @@
 
 <div align="center">
 
-### Building for the web, one project at a time
+### About Me
 
-I work with **HTML, CSS, JavaScript, and React**, and I'm growing my backend skills with **Node.js, Express, and MongoDB**.
+I'm a web developer from **Jhapa, Nepal**. I'm **16 years old** and have been building websites for over **three years**.
+
+I have a strong foundation in **frontend development** and am currently learning **backend development**.
 
 </div>
 
@@ -19,7 +21,7 @@ I work with **HTML, CSS, JavaScript, and React**, and I'm growing my backend ski
 - 🛠️ Learning to build APIs with Node.js and Express
 - 🗄️ Exploring MongoDB and Mongoose
 
-### 🧰 Tools in my kit
+### 🧰 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -36,10 +38,9 @@ I work with **HTML, CSS, JavaScript, and React**, and I'm growing my backend ski
 
 <div align="center">
   <img src="koi/koi.gif" width="220" alt="Animated koi fish" />
-  <br />
-  <sub>Thanks for stopping by — keep swimming!</sub>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0F766E,100:102A43&height=100&section=footer" alt="" />
+  <br />
+  🌐 **Portfolio:** Coming soon — check back to learn more about my work.
 </div>
