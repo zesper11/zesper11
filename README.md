@@ -1,40 +1,45 @@
-# Hey, I'm Rohan 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:0F766E,100:38BDF8&height=220&section=header&text=Hey,%20I'm%20Rohan%20%F0%9F%91%8B&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Nepal&descAlignY=60&descSize=18" alt="Hey, I'm Rohan — Web Developer from Nepal" />
+</div>
 
-I'm Website Developer from Nepal.
+<div align="center">
 
-I've mainly worked with **HTML, CSS, JavaScript, and React**, and I'm currently learning more about **Node.js, Express, MongoDB, and backend development**.
+### Building for the web, one project at a time
 
-## What I'm working on
+I work with **HTML, CSS, JavaScript, and React**, and I'm growing my backend skills with **Node.js, Express, and MongoDB**.
+
+</div>
+
+---
+
+### 🌱 What I'm up to
 
 - 🌐 Building and improving full-stack web projects
 - ⚛️ Getting better with React
-- 🟢 Learning Node.js, Express & MongoDB
+- 🛠️ Learning to build APIs with Node.js and Express
+- 🗄️ Exploring MongoDB and Mongoose
 
-## Tech I use
+### 🧰 Tools in my kit
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181818" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+</div>
 
-**Backend / Database**
-- Node.js
-- Express
-- MongoDB
-- Mongoose
+### 🐟 A little koi in my Git pond
 
-## Currently learning
+<div align="center">
+  <img src="koi/koi.gif" width="220" alt="Animated koi fish" />
+  <br />
+  <sub>Thanks for stopping by — keep swimming!</sub>
+</div>
 
-```text
-Backend development
-   ↓
-Node.js → Express → MongoDB → APIs
-   ↓
-Full-stack projects
-```
-## Github Koi🐟
-
-<p align="center">
-  <img src="koi/koi.gif" width="280" alt="Animated koi fish" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0F766E,100:102A43&height=100&section=footer" alt="" />
+</div>
