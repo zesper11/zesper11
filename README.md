@@ -10,8 +10,6 @@ I've mainly worked with **HTML, CSS, JavaScript, and React**, and I'm currently 
 - ⚛️ Getting better with React
 - 🟢 Learning Node.js, Express & MongoDB
 
-
-
 ## Tech I use
 
 **Frontend**
@@ -34,3 +32,10 @@ Backend development
 Node.js → Express → MongoDB → APIs
    ↓
 Full-stack projects
+```
+
+## My Git Koi 🐟
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi" />
+</p>
